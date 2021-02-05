@@ -62,4 +62,20 @@ body {
         
   }
 
+  footer {
+    color: white;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: rgb(25, 25, 29);
+  }
+  .fa-twitter {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
 
