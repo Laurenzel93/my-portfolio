@@ -1,18 +1,29 @@
+  
 header {
-    color: rgb(114, 82, 173);
+    color: white;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: right;
     font-size: 35px;
     padding: 10px;
     font-variant: small-caps;
+    background-image: url(https://i.pinimg.com/originals/0b/06/39/0b06397a3199bee4a5922ee4488ebf5a.jpg);
+}
+
+img {
+  border-radius: 50%;
 }
 
 body {
+
     background-color: rgb(25, 25, 29);
-}
+    background-image: url(https://i.pinimg.com/originals/0b/06/39/0b06397a3199bee4a5922ee4488ebf5a.jpg);
+    margin-left: auto;
+    margin-right: auto;
+
+  }
 
 .topnav {
-    background-color: #333;
+    background-color: rgb(19, 26, 66);
     overflow: hidden;
   }
   
@@ -20,15 +31,54 @@ body {
     font-variant: small-caps;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     float: right;
-    color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
     font-size: 20px;
+    color: #f2f2f2; 
+    
   }
 
   .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
+
+  .container {
+    background-color: rgba(245, 245, 245, 0.521);
+    color: white;
+    text-align: center;
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    
+  }
   
+<<<<<<< HEAD
+=======
+  .box {
+    
+    height: 1000px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+        
+  }
+
+  footer {
+    color: white;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: rgb(25, 25, 29);
+  }
+  .fa-twitter {
+    padding: 10px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+>>>>>>> c13d8538eb89f843a6ba5b4a0227d8302bf5b02d
 
