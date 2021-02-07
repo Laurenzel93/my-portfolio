@@ -1,4 +1,8 @@
-  
+
+html {
+  scroll-behavior: smooth;
+}
+
 header {
     color: white;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -43,42 +47,100 @@ body {
     color: black;
   }
 
-  .container {
+  .aboutme {
     background-color: rgba(245, 245, 245, 0.521);
     color: white;
     text-align: center;
     font-variant: small-caps;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
-    
+    margin: auto;
+    margin-left: 200px; 
+    margin-right: 200px;
+    border-radius: 20%;
+    margin-top: 200px;
   }
   
-<<<<<<< HEAD
-=======
   .box {
     
-    height: 1000px;
-    width: 100px;
-    margin-left: auto;
-    margin-right: auto;
-        
+    height: 430px;
+    margin: auto;
+    margin-left: 200px; 
+    margin-right: 200px;
+    padding-top: 7px;
+
   }
 
-  footer {
-    color: white;
-    font-size: 20px;
-    font-variant: small-caps;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  .projects {
+
+    background-color:rgba(245, 245, 245, 0.521);
+    height: 450px;
+    border-radius: 15%;
+    margin: auto;
+    margin-left: 200px; 
+    margin-right: 200px;
     text-align: center;
     color: white;
-    background-color: rgb(25, 25, 29);
-  }
-  .fa-twitter {
-    padding: 10px;
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
+    margin-top: 200px;
+    padding-top: 7px;
+
+  }
+
+  .contactme {
+    background-color:rgba(245, 245, 245, 0.521);
+    height: 350px;
+    border-radius: 20%;
+    margin: auto;
+    margin-left: 200px; 
+    margin-right: 200px;
+    text-align: center;
+    color: white;
+    font-variant: small-caps;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin-top: 200px;
+    margin-bottom: 50px;
+    padding-top: 7px;
+    
+  }
+
+  .fa-linkedin {
+    padding: 10px;
+    font-size: 100px;
     width: 30px;
     text-align: center;
     text-decoration: none;
   }
->>>>>>> c13d8538eb89f843a6ba5b4a0227d8302bf5b02d
+.icons {
+  font-size: 36px;
+}
 
+  footer {
+    text-decoration: none;
+    font-size: 20px;
+    font-variant: small-caps;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 14px 16px;
+    height: 30px;
+    color: white;
+    background-color: rgb(19, 26, 66)
+    
+  }
+  .fa-twitter {
+    padding: 10px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fa-github {
+    padding: 10px;
+    font-size: 100px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none; 
+  }
