@@ -1,7 +1,7 @@
-```
-Deployed Link: https://laurenzel93.github.io/my-portfolio/
-Repo Link: https://github.com/Laurenzel93/my-portfolio
-```
+
+Deployed Link: https://laurenzel93.github.io/my-portfolio/ <br>
+Repo Link: https://github.com/Laurenzel93/my-portfolio <br>
+
 
 ## User Story
 
