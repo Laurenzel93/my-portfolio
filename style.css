@@ -102,8 +102,8 @@ body {
     background-color:rgba(245, 245, 245, 0.521);
     width: 300px;
     border: 15px solid white;
-    padding: 50px;
-    margin: 20px;
+    padding: 20px;
+    margin: 10px;
     border-radius: 15%;
     margin: auto;
     margin-left: auto; 
@@ -114,7 +114,8 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     margin-top: 200px;
-    padding-top: 7px;
+    padding-top: 20px;
+    padding-bottom: 10px;
     
   }
 
@@ -135,8 +136,8 @@ body {
     font-variant: small-caps;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    padding: 14px 16px;
     height: 30px;
+    margin-top: 100px;
     color: white;
     background-color: rgb(19, 26, 66)
     
