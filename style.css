@@ -119,6 +119,11 @@ body {
     
   }
 
+  .email {
+    color:white; 
+    text-decoration: none;
+  }
+
   .fa-linkedin {
     padding: 10px;
     font-size: 100px;
@@ -156,3 +161,12 @@ body {
     text-align: center;
     text-decoration: none; 
   }
+
+  
+/* 
+@media screen and (max-width: 900px){
+  .navbar {
+    font-size: x-large;
+
+  }
+} */
